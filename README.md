@@ -2,12 +2,12 @@
 
 ## Setup
 
-`
+```
     $ yarn install
-`
+```
 
 ## Usage
-`
+```
     $ yarn run build
     $ yarn run start
-`
+```
